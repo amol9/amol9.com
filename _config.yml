@@ -1,0 +1,49 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Amol Umrale
+tagline:             ''
+url:                 http://amol9.github.io
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Amol Umrale
+  email:             
+  github:            https://github.com/amol9
+  twitter:           https://twitter/babaiscool
+  linkedin:          https://linkedin.com/in/amolumrale
+
+
+# Custom vars
+version:             1.0.0
+
+
+# gems
+gems:
+ - jekyll-paginate
+
+
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
+
+
+disqus: Amol9
+
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
