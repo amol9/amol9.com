@@ -1,6 +1,4 @@
-# Simpleton
+# amol9.com
 
-A simple Jekyll theme based on lanyon.
-
-[Incomplete, do not use]
+Source for http://amol9.com
 
