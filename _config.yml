@@ -15,8 +15,10 @@ author:
   name:              Amol Umrale
   email:             
   github:            https://github.com/amol9
+  gists:             https://gist.github.com/amol9
   twitter:           https://twitter/babaiscool
   linkedin:          https://linkedin.com/in/amolumrale
+  hackerearth:       https://www.hackerearth.com/@amol.9 
 
 
 # Custom vars
@@ -46,3 +48,4 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
+  - about.md
