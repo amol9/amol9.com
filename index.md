@@ -3,13 +3,16 @@ layout: default
 title: Home
 ---
 
-Welcome to my home on the Internet.
+![](https://avatars0.githubusercontent.com/u/131065?v=3&s=180)
+{: style="float: right;" }
 
-My programming blog is here: <http://amol9.github.io>
+Hi!
 
-Check out my [stories](/stories).
+Check out my programming blog: <http://amol9.github.io>,
 
-Find me elsewhere:
+or my [stories](/stories),
+
+or find me elsewhere:
 
 - [github]({{ site.author.github }})
 - [gists]({{ site.author.gists }})
