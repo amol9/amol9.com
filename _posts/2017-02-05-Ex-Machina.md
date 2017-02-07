@@ -4,8 +4,6 @@ title: Ex Machina - Mystery Man Machine
 tags: movie, symbolism
 ---
 
-**Ex Machina - Mystery Man Machine**
-
 I am trying to interpret the movie, Ex Machina, symbolically. The mysteriousness and beauty of the environment surrounding the underground lab appealed to me. The attempt of man to play god appalled me. The physical near perfection and rule based fuzziness of machines did not surprise me.
 
 I have been mesmerized by the mysterious environment of the lab, even now. Weeks after watching the movie. I think that was the most important symbol in the movie. Yet, it was only shown briefly. None of the characters talked about it. I did not think much about it while watching the movie. Just an appreciation of the beauty of the place which was suppressed quickly to process the men and the machines.

@@ -9,6 +9,7 @@ tagline:             ''
 url:                 http://amol9.com
 baseurl:             ''
 paginate:            5
+paginate_path:		 'blog/page:num'
 
 # About/contact
 author:
