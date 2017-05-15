@@ -8,7 +8,7 @@ title: Home
 
 Hi!
 
-Check out my programming blog: {{ site.author.blog }},
+Check out my programming blog: <{{ site.author.blog }}>,
 
 or my [stories](/stories),
 
