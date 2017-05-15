@@ -8,7 +8,7 @@ title: Home
 
 Hi!
 
-Check out my programming blog: <http://amol9.github.io>,
+Check out my programming blog: {{ site.author.blog }},
 
 or my [stories](/stories),
 
@@ -17,6 +17,7 @@ or find me elsewhere:
 - [github]({{ site.author.github }})
 - [gists]({{ site.author.gists }})
 - [hackerearth]({{ site.author.hackerearth }})
+- [hackerrank]({{ site.author.hackerrank }})
 - [linkedin]({{ site.author.linkedin }})
 - [twitter]({{ site.author.twitter }})
 
