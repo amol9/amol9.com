@@ -20,4 +20,5 @@ or find me elsewhere:
 - [hackerrank]({{ site.author.hackerrank }})
 - [linkedin]({{ site.author.linkedin }})
 - [twitter]({{ site.author.twitter }})
+- [github2]({{ site.author.github2 }})
 
